@@ -8,4 +8,4 @@ More text!!
 
 ## Local Development
 
-1. Index text
+1. Index text.
